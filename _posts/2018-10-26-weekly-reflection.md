@@ -1,7 +1,7 @@
 - - -
-Layout:post
-Title:Louis Gonzalez's blog
-Date:2018-10-26
+Layout: post
+Title: "Louis Gonzalez's blog"
+Date: 2018-10-26
 - - -
 
   This week we learned about defining values,creating images in WeScheme, and reviewing what we have done in the past 6 weeks. On monday we started to learn about defining values.When a value is defined,it adds that word to the WeScheme tab thats open. The way you do so is by opening a parenthesis pair,putting define and what ever you want to call the function or contract,which will be shape in this example, ie: shape3,then open up a new pair of parenthesis,then you enter in the strings and measurements and what shape it will be ie:(star 30 "solid" "blue"),then close both pairs of parenthesis,the end product should be: (Define shape3(star 30 "solid" "blue")). If done correctly,when shape3 is typed into the intereactions space,a blue star will appear once enter is pressed.
