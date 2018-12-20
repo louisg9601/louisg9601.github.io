@@ -13,7 +13,7 @@ I did the Flag of Puerto Rico because that is where both sides of my family are 
 
 ## Current output
 
-![Puerto Rico Flag](/images/LG_flagV2.png)
+![my flag](/images/LG_FlagV2.png)
 
 ## Describe your process.
 
