@@ -22,11 +22,26 @@ I didn't really need any help with this project, I got a time boost when I did a
 
 ## Explain your code.
 
-This is the my entire code and some of the definitions i made for said functions,
+This is the my flag program and some of the definitions i made for said functions,
 
 * * *
 
 ```
+(define TRIANGLE/STAR-POSITION 60)
+(define TRIANGLE-X 86)
+(define TRIANGLE-Y 100)
+(define STAR-X 60)
+(define STAR-Y 102)
+(define POSITION3 140)
+(define FLAG (put-image (star STAR-SIZE "solid" "white") 
+                        STAR-X STAR-Y 
+                        (put-image (rotate TRIANGLE-ROTATION(triangle LEGNTH/position1 "solid" "blue")
+                                           ) 
+                                   TRIANGLE-X TRIANGLE-Y 
+                                   (put-image (rectangle WIDTH LEGNTH3 "solid" "white") 
+                                             LEGNTH/position2 TRIANGLE/STAR-POSITION 
+                                             (put-image (rectangle WIDTH LEGNTH3 "solid" "white")  LEGNTH/position2 POSITION3 (rectangle WIDTH LEGNTH/position1 "solid" "red"))))))
+
 
 ```
 
@@ -41,6 +56,26 @@ This is the my entire code and some of the definitions i made for said functions
 ## Program code
 
 ```
+(define WIDTH 300)
+(define LEGNTH/position1 200)
+(define LEGNTH/position2 150)
+(define LEGNTH3 40)
+(define STAR-SIZE 47)
+(define TRIANGLE-ROTATION -90)
+(define TRIANGLE/STAR-POSITION 60)
+(define TRIANGLE-X 86)
+(define TRIANGLE-Y 100)
+(define STAR-X 60)
+(define STAR-Y 102)
+(define POSITION3 140)
+(define FLAG (put-image (star STAR-SIZE "solid" "white") 
+                        STAR-X STAR-Y 
+                        (put-image (rotate TRIANGLE-ROTATION(triangle LEGNTH/position1 "solid" "blue")
+                                           ) 
+                                   TRIANGLE-X TRIANGLE-Y 
+                                   (put-image (rectangle WIDTH LEGNTH3 "solid" "white") 
+                                             LEGNTH/position2 TRIANGLE/STAR-POSITION 
+                                             (put-image (rectangle WIDTH LEGNTH3 "solid" "white")  LEGNTH/position2 POSITION3 (rectangle WIDTH LEGNTH/position1 "solid" "red"))))))
 
 
 
