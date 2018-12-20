@@ -22,27 +22,12 @@ I didn't really need any help with this project, I got a time boost when I did a
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+This is the my entire code and some of the definitions i made for said functions,
 
 * * *
 
 ```
-(define TRIANGLE/STAR-POSITION 60)
-(define TRIANGLE-X 86)
-(define TRIANGLE-Y SIZE)
-(define STAR-X 60)
-(define STAR-Y 102)
-(define POSITION3 (14)
-(define FLAG (put-image (star STAR-SIZE "solid" "white") 
-                        STAR-X STAR-Y 
-                        (put-image (rotate TRIANGLE-ROTATION(triangle LEGNTH/position1 "solid" "blue")
-                                           ) 
-                                   TRIANGLE-X TRIANGLE-Y 
-                                   (put-image (rectangle WIDTH LEGNTH3 "solid" "white") 
-                                             LEGNTH/position2 TRIANGLE/STAR-POSITION 
-                                             (put-image (rectangle WIDTH LEGNTH3 "solid" "white")  LEGNTH/position2 POSITION3 (rectangle WIDTH LEGNTH/position1 "solid" "red"))))))
+
 ```
 
 * * *
@@ -56,5 +41,7 @@ I didn't really need any help with this project, I got a time boost when I did a
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+
+
+
 ```
