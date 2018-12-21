@@ -23,10 +23,6 @@ I didn't really need any help with this project,And any problems that i had i so
 ## Explain your code.
 
 This is the my flag program and some of the definitions i made for said functions,I ​
-50
--   Explain the code you posted by telling us about each argument.
-51
--   Then tell us how your code section fits into the whole.made a semi-simple flag so this is why the program for it is so small,a lot of the definitions have two purposes,either a position or a legnth/width number. One example of this is the triangle/star position definition,which serves as both the position for the triangle and the star,since the star is centered on the triangle. 
 
 * * *
 ```
