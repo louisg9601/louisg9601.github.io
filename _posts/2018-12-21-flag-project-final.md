@@ -29,11 +29,6 @@ This is the my flag program and some of the definitions i made for said function
 -   Then tell us how your code section fits into the whole.made a semi-simple flag so this is why the program for it is so small,a lot of the definitions have two purposes,either a position or a legnth/width number. One example of this is the triangle/star position definition,which serves as both the position for the triangle and the star,since the star is centered on the triangle. 
 
 * * *
-​
-50
--   Explain the code you posted by telling us about each argument.
-51
--   Then tell us how your code section fits into the whole.
 ```
 (define TRIANGLE/STAR-POSITION 60)
 (define TRIANGLE-X 86)
@@ -47,12 +42,7 @@ This is the my flag program and some of the definitions i made for said function
                                            ) 
                                    TRIANGLE-X TRIANGLE-Y 
                                    (put-image (rectangle WIDTH LEGNTH3 "solid" "white") 
-                                             LEGNTH/position2 TRIANGLE/STAR-POSITION​
-50
--   Explain the code you posted by telling us about each argument.
-51
--   Then tell us how your code section fits into the whole. 
-                                             (put-image (rectangle WIDTH LEGNTH3 "solid" "white")  LEGNTH/position2 POSITION3 (rectangle WIDTH LEGNTH/position1 "solid" "red"))))))
+                                             LEGNTH/position2 TRIANGLE/STAR-POSITION
 
 
 ```
